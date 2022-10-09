@@ -32,7 +32,7 @@
         </div>
     </nav>
     </header>
-    <div id="presentation" class="container-fluid py-5 px-4">
+    <div id="presentation" class="container py-5 px-4">
         <h1>This is my website 🚀</h1>
         <p>It probably sucks right now. But it will get better.</p>
         <p id="welcome-el"></p>
@@ -44,9 +44,25 @@
         <button id=error-btn type="button" class="btn btn-outline-danger" onclick="error()">Press this and you will
             have
             an error</button>
-        <p id="error" class="text-danger"></p>
+        <p id="error" class="text-dark"></p>
     </div>
-    <div id="countdown" class="d-flex justify-content-right align-self-center align-item-center flex-column">
+    <div class="container">
+        <h2>Lets make a calculator now.</h2>
+        <p>Btw, i do not care about the desing right now.</p>
+        <span id="num1-el" class="text-decoration-underline"></span>
+        <span id="num2-el" class="text-decoration-underline"></span>
+        <br>
+        <div class=" d-flex justify-content-center">
+            <button type="button" class="btn btn-dark mx-4">Add</button>
+            <button type="button" class="btn btn-dark">Substract</button>
+        </div>
+        <div class=" d-flex justify-content-center my-1">
+            <button type="button" class="btn btn-dark mx-3">Multiply</button>
+            <button type="button" class="btn btn-dark">Divide</button>
+        </div>
+        <span id="sum-el">Result: </span>
+    </div>
+    <div id="countdown" class="d-flex container justify-content-center align-self-center align-item-center flex-column">
         <h1 id="headline" class="p-2">Countdown to my birthday</h1>
         <div id="counter">
             <ul class="p-2">
