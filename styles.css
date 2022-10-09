@@ -11,6 +11,7 @@
 html,
 body {
   margin: 0;
+  background-color: rgb(255, 253, 240) !important;
 }
 
 body {
@@ -107,5 +108,4 @@ li span {
   border-radius: var(--bs-btn-border-radius);
   background-color: var(--bs-btn-bg);
   transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-}
 }
