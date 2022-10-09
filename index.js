@@ -25,30 +25,26 @@ welcomeEl.innerText += " (～o￣3￣)～"
 
 let num1 = 8
 let num2 = 2
-let sum = 0
 function error() {
     errorEl.textContent = errorMessage
 }
 
 function add() {
-    sum = num1 + num2
-    sumEl.textContent = "Result: " + sum
+    let result = num1 + num2
+    sumEl.textContent = "Result: " + result
 }
 function substract() {
 
-    sum = num1 - num2
-    sumEl.textContent = "Result: " + sum
-    sum = 0
+    let result = num1 - num2
+    sumEl.textContent = "Result: " + result
 }
 function divide() {
-    sum = num1 / num2
-    sumEl.textContent = "Result: " + sum
-    sum = 0
+    let result = num1 / num2
+    sumEl.textContent = "Result: " + result
 }
 function multiply() {
-    sum = num1 * num2
-    sumEl.textContent = "Result: " + sum
-    sum = 0
+    let result = num1 * num2
+    sumEl.textContent = "Result: " + result
 }
 
 
