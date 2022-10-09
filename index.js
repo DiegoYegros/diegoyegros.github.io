@@ -4,6 +4,7 @@ let countElement = document.getElementById("incrementButton")
 let saveButton = document.getElementById("save-info")
 let errorEl = document.getElementById("error")
 let sumEl = document.getElementById("sum-el")
+let operatorEl = document.getElementById("operator-el")
 let errorMessage = "Something went wrong, please try again"
 function increment() {
     count += 1
@@ -32,19 +33,25 @@ function error() {
 function add() {
     let result = num1 + num2
     sumEl.textContent = "Result: " + result
+    operatorEl.textContent = "+"
 }
 function substract() {
 
     let result = num1 - num2
     sumEl.textContent = "Result: " + result
+    operatorEl.textContent = "-"
 }
 function divide() {
     let result = num1 / num2
     sumEl.textContent = "Result: " + result
+    operatorEl.textContent = "/"
+
 }
 function multiply() {
     let result = num1 * num2
     sumEl.textContent = "Result: " + result
+    operatorEl.textContent = "*"
+
 }
 
 
