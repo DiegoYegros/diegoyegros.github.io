@@ -3,6 +3,7 @@ let count = 0
 let countElement = document.getElementById("incrementButton")
 let saveButton = document.getElementById("save-info")
 let errorEl = document.getElementById("error")
+let sumEl = document.getElementById("sum-el")
 let errorMessage = "Something went wrong, please try again"
 function increment() {
     count += 1
@@ -22,10 +23,32 @@ let myGreeting = greeting + name
 welcomeEl.innerText = myGreeting
 welcomeEl.innerText += " (～o￣3￣)～"
 
-
+let num1 = 8
+let num2 = 2
+let sum = 0
 function error() {
     errorEl.textContent = errorMessage
 }
+
+function add() {
+    sum = num1 + num2
+    sumEl.textContent = sum
+}
+function substract() {
+
+    sum = num1 - num2
+    sumEl.textContent = sum
+}
+function divide() {
+    sum = num1 / num2
+    sumEl.textContent = sum
+}
+function multiply() {
+    sum = num1 * num2
+    sumEl.textContent = sum
+}
+
+
 /*let firstName = "Diego"
 let lastName = "Yegros"
 let fullName = firstName + " " + lastName
