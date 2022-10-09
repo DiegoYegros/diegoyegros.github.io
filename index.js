@@ -9,6 +9,8 @@ function increment() {
 function save() {
     previousEntries = " " + count + " - "
     saveButton.textContent += previousEntries
+    count = 0
+    countElement.textContent = count
 }
 
 let welcomeEl = document.getElementById("welcome-el")
