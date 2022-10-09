@@ -32,20 +32,23 @@ function error() {
 
 function add() {
     sum = num1 + num2
-    sumEl.textContent = sum
+    sumEl.textContent = "Result: " + sum
 }
 function substract() {
 
     sum = num1 - num2
-    sumEl.textContent = sum
+    sumEl.textContent = "Result: " + sum
+    sum = 0
 }
 function divide() {
     sum = num1 / num2
-    sumEl.textContent = sum
+    sumEl.textContent = "Result: " + sum
+    sum = 0
 }
 function multiply() {
     sum = num1 * num2
-    sumEl.textContent = sum
+    sumEl.textContent = "Result: " + sum
+    sum = 0
 }
 
 
