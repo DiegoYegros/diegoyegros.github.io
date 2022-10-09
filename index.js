@@ -8,3 +8,7 @@ function increment(){
 function save(){
     saveButton.innerText = count
 }
+
+let username = "Diego"
+let message = "You have three new notifications"
+console.log(message + username)
