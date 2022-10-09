@@ -1,4 +1,4 @@
-/*let firstCard = 6
+let firstCard = 6
 let secondCard = 4
 let sum = firstCard + secondCard
 
@@ -11,6 +11,8 @@ else if (sum === 21) {
 else {
     console.log("You are out of the game 😭")
 }
+
+
 
 /*
 let age = 21
