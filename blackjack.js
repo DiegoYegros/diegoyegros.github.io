@@ -24,7 +24,12 @@ function startGame() {
     sumEl.textContent = "Sum: " + sum
 }
 function newCard() {
-
+    firstCard = Math.floor(Math.random() * 11) + 1
+    secondCard = Math.floor(Math.random() * 11) + 1
+    cardsEl.textContent = "Cards: " + firstCard + " and " + secondCard
+    sum = firstCard + secondCard
+    sumEl.textContent = "Sum: " + sum
+    startGame()
 }
 
 
