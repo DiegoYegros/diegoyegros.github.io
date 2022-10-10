@@ -1,3 +1,4 @@
+let card = 0
 let firstCard = 6
 let secondCard = 4
 let sum = firstCard + secondCard
@@ -7,7 +8,7 @@ let message = ""
 let messageEl = document.getElementById("message-el")
 let sumEl = document.querySelector("#sum-cards-el")
 let cardsEl = document.querySelector("#cards-el")
-
+let cards = [firstCard, secondCard] // array - ordered list of items
 function startGame() {
     renderGame()
 }
@@ -25,13 +26,17 @@ function renderGame() {
         isAlive = false
     }
     messageEl.textContent = message
-    cardsEl.textContent = "Cards: " + firstCard + " and " + secondCard
+    cardsEl.textContent = "Cards: " + cards.join(", ")
     sumEl.textContent = "Sum: " + sum
+    flag = true
+    card = 0
+
 }
 function newCard() {
-    let card = Math.floor(Math.random() * 11) + 1
-    cardsEl.textContent = "Cards: " + firstCard + " and " + secondCard
+    card = Math.floor(Math.random() * 11) + 1
+    cards.push(card)
     sum += card
+    cardsEl.textContent += card
     sumEl.textContent = "Sum: " + sum
     renderGame()
 }
