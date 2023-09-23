@@ -1,0 +1,22 @@
+/* Set the background color */
+body {
+    background-color: #0c0c0c;
+    font-family: sans-serif;
+    color: #fff;
+  }
+  
+  /* Style the error message */
+  .error {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .error-text {
+    text-align: center;
+    max-width: 600px;
+    padding: 50px;
+  }
