@@ -4,7 +4,6 @@ title: "The Black Cloud: A Dystopian World"
 date: 2023-09-29 21:00:00 -0400
 categories: Astronomy Sci-Fi Apocalypse
 image: /assets/images/theBlackCloud.jpeg
-
 ---
 
 ![The Black Cloud](/assets/images/theBlackCloud.jpeg){: style="width: 50%; display: block; margin-left: auto; margin-right: auto;"}
