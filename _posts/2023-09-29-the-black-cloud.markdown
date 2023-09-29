@@ -3,7 +3,7 @@ layout: post
 title: "The Black Cloud: A Dystopian World"
 date: 2023-09-29 21:00:00 -0400
 categories: Astronomy Sci-Fi Apocalypse
-image: /assets/images/theBlackCloud.jpg
+image: /assets/images/theBlackCloud.jpeg
 
 ---
 
