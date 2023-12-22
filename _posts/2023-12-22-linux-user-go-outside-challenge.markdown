@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "linux users go outside challenge (impossible)"
-date: 2023-04-11 9:46:00 -0400
+date: 2023-12-22 9:46:00 -0400
 categories: linux user challenge
 ---
 # the gospel according to GNU
