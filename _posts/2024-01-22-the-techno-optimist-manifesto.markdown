@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Techno-Optimist Manifesto"
-date: 2024-01-22 2:00:00 -0400
+date: 2024-01-22 00:00:00 -0300
 categories: acceleration technology optimism 
 ---
 ### The Techno-Optimist Manifesto
