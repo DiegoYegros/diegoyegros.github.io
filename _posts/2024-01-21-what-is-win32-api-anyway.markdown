@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is Win32 API anyway?"
-date: 2024-01-21 23:37:00 -0400
+date: 2024-01-21 11:37:00 -0400
 categories: linux windows mac api software
 ---
 ### So what is Win32 API anyway?

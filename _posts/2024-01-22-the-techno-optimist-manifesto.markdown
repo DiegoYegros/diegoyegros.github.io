@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "The Techno-Optimist Manifesto"
-date: 2024-01-22 03:00:00 -0400
+date: 2024-01-22 3:00:00 -0400
 categories: acceleration technology optimism 
 ---
 ### The Techno-Optimist Manifesto
 #### by Marc Andreessen
 
-These are some points I made from [the techno-optimist manifesto](https://pmarca.substack.com/p/the-techno-optimist-manifesto)
+These are some points I made from [the techno-optimist manifesto](https://pmarca.substack.com/p/the-techno-optimist-manifesto):
 
 1. I am here to bring the good news.
 We can advance to a far superior way of living, and of being.
