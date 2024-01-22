@@ -4,8 +4,7 @@ title: "The Techno-Optimist Manifesto"
 date: 2024-01-22 00:00:00 -0300
 categories: acceleration technology optimism 
 ---
-### The Techno-Optimist Manifesto
-#### by Marc Andreessen
+### by Marc Andreessen
 
 These are some points I made from [the techno-optimist manifesto](https://pmarca.substack.com/p/the-techno-optimist-manifesto):
 
