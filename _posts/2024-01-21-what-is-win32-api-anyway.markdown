@@ -4,9 +4,9 @@ title: "What is Win32 API anyway?"
 date: 2024-01-21 23:37:00 -0400
 categories: linux windows mac api software
 ---
-## So what is Win32 API anyway?
+### So what is Win32 API anyway?
 Windows API (used to be Win32 API) is Microsoft's core set of APIs available in Windows systems.
-## The functions provided by the Windows API can be grouped into eight categories
+### The functions provided by the Windows API can be grouped into eight categories
 1. Base Services
 2. Advanced Services
 3. Graphics Device Interface
@@ -16,7 +16,7 @@ Windows API (used to be Win32 API) is Microsoft's core set of APIs available in 
 7. Windows Shell
 8. Network Services
 
-## History of Windows API
+### History of Windows API
 1. `For example, a beginning C programmer will often write the simple "hello world" as their first assignment. The working part of the program is only a single printf line within the main subroutine. The overhead for linking to the standard I/O library is also only one line:`
 <code>#include <stdio.h></code>
    <pre><code>int main(void) {
@@ -28,13 +28,13 @@ Windows API (used to be Win32 API) is Microsoft's core set of APIs available in 
 2. The Windows API for Windows 1.0 supported fewer than 450 function calls, whereas modern versions of the API support thoousands.
 3. Back in the days (Windows 95) they took backward compatibility really seriously.
 
-## The Wine Project
+### The Wine Project
 The wine project provides a Win32 API compatibility layer for Unix-lke platforms, between Linux Kernel API and programs written for the Windows API. 
 
-## Compiler Support
+### Compiler Support
 For a time, Visual Studio was the only IDE that could handle the Microsoft Platform SDK (compilers, tools, libraries and headers). As of 2024, MinGW and Cygwin projects also provide such an environment based on the GNU Compiler Collection (GCC).
 
-## Great stuff - Now, what's the equivalent on Linux?
+### Great stuff - Now, what's the equivalent on Linux?
 There isn't.
 First, remember that Linux is the Kernel only.
 There are many APIs developed by different teams. For instance, APIs for graphic user interfaces are QT, GTK, X11. I guess the lowest level library responsible for creating windows you can get is Xlib. But again, Linux is just the kernel. You don't need any windowing environment at all.
@@ -45,7 +45,7 @@ For macOS, there's no direct equivalent either, for OS X, you have Cocoa Framweo
 
 Windows API is far superior than what's available on GNU/Linux and macOS. Linux is just a f* mess, and I've seen game developers crying about how awful Windows API has become, but still, it is the best thing available.
 
-## Wait, so is this the reason why gaming is widely available just on Windows?
+### Wait, so is this the reason why gaming is widely available just on Windows?
 No.
 Windows just has a bigger marketshare, we could discuss the reasons, but that's mainly why game developers do it for Windows.
 Also, who wants to maintain a game for 10 different distros && Wayland or Xorg?
