@@ -4,7 +4,6 @@ title: "Castillos de Arena"
 date: 2024-04-21 00:00:00 -0300
 categories: redes-sociales español neolengua
 ---
-# Castillos de Arena
 ```
     Una princesa más,
     bella y reluciente,
