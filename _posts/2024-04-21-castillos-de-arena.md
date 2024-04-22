@@ -26,7 +26,7 @@ categories: redes-sociales español neolengua
     de este falso querer.
 
     Vuelve a lo tradicional,
-    ediário y epistolar mantiene,
+    ediario y epistolar mantiene,
     audiencia leal y real,
     conexiones genuinas sostiene.
 
@@ -50,7 +50,7 @@ La diferencia ahora está en que, principalmente, los artistas (o influencers, c
 
 La realidad es que lo más probable sea que aquella persona solo te sigue porque apareciste en 'Sugerencias', le dio un click en 'Seguir' a tu perfil y ya se olvidó de vos. No tenés 'seguidores', lo que pensás que es un castillo, es tan siquiera un castillo de arena.
 
-Las personas de a pie y los artistas participan en esta competencia por tener más seguidores. Muchos ya salen de esta rueda de tróglidos que representan las redes. Estamos volviendo a usar ediários, RSS o similares para volver a tener información sobre gente que realmente nos interesa. 
+Las personas de a pie y los artistas participan en esta competencia por tener más seguidores. Muchos ya salen de esta rueda de tróglidos que representan las redes. Estamos volviendo a usar ediarios, RSS o similares para volver a tener información sobre gente que realmente nos interesa.
 
 ¿Que volver a estas prácticas antiguas requieren más esfuerzo y hay más fricción? Pues sí, pero 
 también es más sano. ¿Qué preferís, estar entumecido haciendo desliz en Instagram o, con esfuerzo, buscar el blog de alguien y guardarlo y visitarlo regularmente para saber si hay alguna novedad? En última instancia, presiento que de verdad querés saber sobre algo o alguien, y que ese contenido será retenido con mayor facilidad.
