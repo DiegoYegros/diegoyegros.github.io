@@ -3,6 +3,7 @@ layout: post
 title: "12 de octubre: todo que celebrar"
 date: 2024-10-12 00:00:00 -0300
 categories: hispanidad 12-de-octubre imperio
+image: /assets/images/imperio.png
 ---
 
 ### Todo que celebrar
