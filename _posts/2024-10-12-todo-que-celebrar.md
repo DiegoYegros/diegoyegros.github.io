@@ -37,7 +37,7 @@ Entre las principales características de las Leyes Nuevas de Indias se encuentr
 
 Es curioso resaltar que Las Leyes Nuevas de Indias fuerom promovidas por Fray Bartalome de las Casas, quien hubiera mentido en algunos articulos suyos anteriores donde exageraba e inventaba malos tratos a indígenas. Estos artículos falsos fueron y son usados hasta el dia de hoy por la leyenda negra, en los principales libros de historia de las escuelas y colegios hispanoamericanos.
 
-- Como dato curioso, los makás son una tribu indígena del nordeste argentino, quienes fueron desplazados a Paraguay y habitan actualmente zonas de Mariano Roque Alonso, cerca de la capital, Asunción. Quién trata mejor a los indígenas, el Paraguay o Argentina de hoy o el Imperio de ayer?
+- Los makás son una tribu indígena del nordeste argentino, quienes fueron desplazados a Paraguay y habitan actualmente zonas de Mariano Roque Alonso, cerca de la capital, Asunción. Quién trata mejor a los indígenas, el Paraguay o Argentina de hoy o el Imperio de ayer?
 
 - Durante el Imperio, el Virreinato del Rio de la Plata tuvo asentamientos de indígenas guaranies provomidos por los padres de la compañía de Jesús en las tierras conquistadas por España y Portugal. Ellos buscaban crear una sociedad con los beneficios de la sociedad cristiana, pero sin sus vicios. Enseñaban a los indígenas a leer, escribir, aritmética básica, técnicas de agricultura, construcción y artesanía. También aprendieron la lengua de los indígenas (gracias a esto tenemos el guaraní y otras lenguas en escrito, eran puramente orales), lo que facilitaba el trabajo del misionero. Cuando el Rey Carlos III expulsa a los Jesuitas de sus dominios en 1767, efectivizandose en Paraguay en 1768, supuso una gran pérdida para los pueblos originarios, principalmente por la protección, ya que los jesuitas protegían a los indígenas de los bandeirantes, grupos que eran contratados para cazar indígenas y esclavizarlos, o destruir quilombos (asentamientos de esclavos que se liberaban de la esclavitud). Los bandeirantes eran provenientes de zonas del interior de Brasil, y se les puede atribuir la expansión de Brasil más allá de los limites impuestos por el Tratado de Tordesillas.
 
@@ -51,7 +51,7 @@ Si San Martin conocía o no el Plan Maitland no se sabe. San Martin estuvo en Lo
 
 Principalmente la defensa de Buenos Aires solo se puede explicar si nos damos cuenta de que no existe tal cosa como nacionalidad paraguaya o argentina. Todos eramos espanoles. Hay muchos casos similares al de Fulgencio Yegros por toda la America Espanola.
 
-Como dato curioso, Fulgencio Yegros fue ejecutado tras querer derrocar a Jose Gaspar Rodriguez de Francia, quien se declarara dictador supremo de la República del Paraguay, destacando la independencia por primera vez. En mi opinión uno de los grandes errores de Paraguay fue no haberse unido a las Provincias Unidas del Río de la Plata, eran tiempos tumultuosos y de levantamientos constantes.
+- Fulgencio Yegros fue ejecutado tras querer derrocar a Jose Gaspar Rodriguez de Francia, quien se declarara dictador supremo de la República del Paraguay, destacando la independencia por primera vez. En mi opinión uno de los grandes errores de Paraguay fue no haberse unido a las Provincias Unidas del Río de la Plata, eran tiempos tumultuosos y de levantamientos constantes.
 
 - El término latinoamericano no existió hasta luego de la independencia de Nueva España y la formación del Imperio Mexicano en un contexto de invasión de Francia a esas tierras.
 
