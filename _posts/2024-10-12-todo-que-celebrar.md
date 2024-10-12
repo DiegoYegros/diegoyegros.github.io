@@ -35,7 +35,7 @@ Entre las principales características de las Leyes Nuevas de Indias se encuentr
 4. La prohibición de que los indigenas sostuvieran relaciones mercantiles con sus vecinos
 5. La orden a los españoles que empleasen indios de impartir evangelización, darles buen trato, alimentos, vestido, casa, medico y sacerdote, y pagarles su trabajo en efectivo.
 
-Es curioso resaltar que Las Leyes Nuevas de Indias fuerom promovidas por Fray Bartalome de las Casas, quien hubiera mentido en algunos articulos suyos anteriores donde exageraba e inventaba malos tratos a indígenas. Estos artículos falsos fueron y son usados hasta el dia de hoy por la leyenda negra, en los principales libros de historia de las escuelas y colegios hispanoamericanos.
+Es curioso resaltar que Las Leyes Nuevas de Indias fueron promovidas por Fray Bartalome de las Casas, quien hubiera mentido en algunos articulos suyos anteriores donde exageraba e inventaba malos tratos a indígenas. Estos artículos falsos fueron y son usados hasta el dia de hoy por la leyenda negra, en los principales libros de historia de las escuelas y colegios hispanoamericanos.
 
 - Los makás son una tribu indígena del nordeste argentino, quienes fueron desplazados a Paraguay y habitan actualmente zonas de Mariano Roque Alonso, cerca de la capital, Asunción. Quién trata mejor a los indígenas, el Paraguay o Argentina de hoy o el Imperio de ayer?
 
