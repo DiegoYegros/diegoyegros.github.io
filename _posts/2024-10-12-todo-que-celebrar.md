@@ -70,6 +70,9 @@ Como dato curioso, Fulgencio Yegros fue ejecutado tras querer derrocar a Jose Ga
 Parece que las nieblas londinenses nos nublan el corazón y el entendimiento, mientras que la calidad de la soleada España le hace ver y oír mejor a Dios. Sus señorías en Inglaterra deberían considerar la [falsamente imputada] política de despoblación y exterminio de España. Ya que a todas luces la fe y la inteligencia española están construyendo, no como nosotros un imperio de muerte, sino una sociedad civilizada que finalmente terminará por imponerse como por mandato divino.
 España es la sabia Grecia, la imperial Roma; Inglaterra el corsario turco».
 
+![El Imperio Español](/assets/images/imperio.png){: style="width: 50%; display: block; margin-left: auto; margin-right: auto;"}
+
+
 ### Fuentes interesantes
 - [https://www.ellitoral.com.ar/corrientes/2022-8-14-1-0-0-desmitificando-a-san-martin-y-sus-relaciones-con-los-ingleses](https://www.ellitoral.com.ar/corrientes/2022-8-14-1-0-0-desmitificando-a-san-martin-y-sus-relaciones-con-los-ingleses)
 - [Imperiofobia y leyenda negra: Roma, Rusia, Estados Unidos y el Imperio Español de María Elvira Roca Barea](https://www.amazon.com/-/es/Mar%C3%ADa-Elvira-Roca-Barea/dp/8416854238)
