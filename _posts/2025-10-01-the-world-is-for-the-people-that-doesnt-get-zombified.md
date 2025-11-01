@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The world is for the people who don't get zombified"
-date: 2025-10-01 00:00:00 -0300
+date: 2025-11-01 00:00:00 -0300
 categories: humanity ai progress tech
 ---
 
