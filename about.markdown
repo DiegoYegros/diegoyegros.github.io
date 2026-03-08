@@ -1,0 +1,15 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+Cuento con varios proyectos en mi página de GitHub.
+
+Querés donar? Podés hacerlo a las siguientes direcciones:
+
+Bitcoin on-chain: bc1qrsueut2phgwyzmp8jqf0963dgsuh4dw2z92w8q
+
+Bitcoin Lightning BOLT12: lno1pqp2gyq2qncfl2uzzrhq8pjw7qjlm68mtp7e3yvxee4y5xrgjhhyf2fxhlphpckrvevh50u0q047cs9qhs58nn85v3y7ccd3uugwae9sw32hfmy3j929g2yh0ac5vqsr0xx8p9vzsmj6hrcysqnwycukdl96ed2qn5k9hxaf7ssvtku94jwqqv6wjkdaq36cnlk0uvputx3szw8r25wvc6a6q2t7kyah30grq3q6j3zkceatxmusuygkykcau622l8fkamtcqg0sqcye2hw4qm7wn4ztlkz0z0advsg8rhdu6us3jnvd7t5e66h0jqpjv2sh3cekfs7j0tcjfh369wde5v4q74253yh7f3x6tvpn62splkwdgdyyluahm59ws8c4wazdm76l283t
+
+Monero: 47DgcBoLNCmhUTrNTwUv1JFSB7ZnhWBRx73bcBJZQS6WSVYgUW3eyJLSaxVgRgmhk28p1jBzdUi4KVbDakH9GcUZH2RhMjn
