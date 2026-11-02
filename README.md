@@ -1,1 +1,1 @@
-[My blog](https://diegoyegros.com)
+[My blog](https://diegoyegros.github.io)
